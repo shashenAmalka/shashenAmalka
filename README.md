@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shashen</h1> 
+<h1 align="center">Hi 👋, I'm Shashen</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
  <h4><p>### 👨‍💻 About Me - <p>   
  📍 Based in Sri Lanka | Open to remote opportunities -<br> 
   🌱 Currently working on my dissertation focused on fungi isolation techniques - <br> 
@@ -6,7 +7,7 @@
   🔬 Experienced in selective media, serial dilution, and physical separation methods for fungi isolation - <br> 
   🚀 Always eager to learn new technologies and improve my coding skills</h4>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <br>
 <br>
 <h2>🚀 Languages and Tools I Use</h2>
