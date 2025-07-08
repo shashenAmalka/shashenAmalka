@@ -48,11 +48,6 @@
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=shashenAmalka&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </div>
-
-  <!-- Most Used Languages on the right -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashenAmalka&layout=compact&theme=radical&hide_border=true&langs_count=6&custom_title=Top%20%Languages&hide=html,css&card_width=320" alt="Top Languages" />
-  </div>
 </div>
 
 <!-- GitHub Trophies -->
