@@ -7,7 +7,8 @@
   🚀 Always eager to learn new technologies and improve my coding skills</h4>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<br>
+<br>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -43,6 +44,8 @@
 
 <li><a target="_blank" href=""></a></li>
 <li><a target="_blank" href=""></a></li>
+<br>
+<br>
 <h2 align="center">⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/share/1ZSNbJhuaS/?mibextid=wwXIfr" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashenAmalka&show_icons=true&locale=en" alt="shashenAmalka" /></p>
