@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Shashen</h1> 
+<h1 align="center">Hi 👋, I'm Shashen</h1> 
  <h4><p>### 👨‍💻 About Me - <p>   
  📍 Based in Sri Lanka | Open to remote opportunities -<br> 
   🌱 Currently working on my dissertation focused on fungi isolation techniques - <br> 
@@ -40,8 +40,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
+
 <li><a target="_blank" href=""></a></li>
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
