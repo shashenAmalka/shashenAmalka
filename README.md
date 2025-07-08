@@ -6,7 +6,7 @@
   🔬 Experienced in selective media, serial dilution, and physical separation methods for fungi isolation - 
   🚀 Always eager to learn new technologies and improve my coding skills</h1>
 <p>A passionate frontend and backend developer</p>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://iconscout.com/lottie-animation/male-programmer-doing-coding-work-9560195_7793573)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
