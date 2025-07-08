@@ -36,7 +36,58 @@
 <br>
 <br>
 <h2 align="center">⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/share/1ZSNbJhuaS/?mibextid=wwXIfr" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashenAmalka&show_icons=true&locale=en" alt="shashenAmalka" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashenAmalka&show_icons=true&locale=en&layout=compact" alt="shashenAmalka" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashenAmalka" alt="shashenAmalka" /></a></p>
+<p align="center">
+  <a href="https://www.facebook.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <!-- Add other social media links here -->
+</p>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- GitHub Stats on the left -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=shashenAmalka&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </div>
+
+  <!-- Most Used Languages on the right -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashenAmalka&layout=compact&theme=radical&hide_border=true&langs_count=6&custom_title=Top%20%Languages&hide=html,css&card_width=320" alt="Top Languages" />
+  </div>
+</div>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shashenAmalka&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<!-- Custom Most Used Languages Section -->
+<h3 align="center">🔥 Most Used Languages</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+        <br>Java
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C"/>
+        <br>C
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
+        <br>C++
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+        <br>Python
+      </td>
+    </tr>
+    <tr>
+      <td align="center">40%</td>
+      <td align="center">25%</td>
+      <td align="center">20%</td>
+      <td align="center">15%</td>
+    </tr>
+  </table>
+</div>
+</p>
