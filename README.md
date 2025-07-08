@@ -61,7 +61,7 @@
 </div>
 
 <!-- Custom Most Used Languages Section -->
-
+<h3 align="center">🔥 Most Used Languages</h3>
 <div align="center">
   <table>
     <tr>
@@ -90,4 +90,5 @@
     </tr>
   </table>
 </div>
+
 </p>
