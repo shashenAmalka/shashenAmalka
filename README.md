@@ -43,7 +43,7 @@
 
 <li><a target="_blank" href=""></a></li>
 <li><a target="_blank" href=""></a></li>
-<h2>⚡️ Where to find me</h2>
+<h2 align="center">⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/share/1ZSNbJhuaS/?mibextid=wwXIfr" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashenAmalka&show_icons=true&locale=en" alt="shashenAmalka" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashenAmalka&show_icons=true&locale=en&layout=compact" alt="shashenAmalka" /></p>
