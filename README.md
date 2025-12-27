@@ -101,18 +101,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://progress-bar.xyz/40/?title=&width=120&color=ED8B00" alt="60%" />
+  <img src="https://progress-bar.xyz/70/?title=&width=120&color=ED8B00" alt="70%" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://progress-bar.xyz/25/?title=&width=120&color=00599C" alt="75%" />
+  <img src="https://progress-bar.xyz/80/?title=&width=120&color=00599C" alt="80%" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://progress-bar.xyz/20/?title=&width=120&color=9C033A" alt="70%" />
+  <img src="https://progress-bar.xyz/80/?title=&width=120&color=9C033A" alt="80%" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://progress-bar.xyz/15/?title=&width=120&color=3776AB" alt="65%" />
+  <img src="https://progress-bar.xyz/70/?title=&width=120&color=3776AB" alt="70%" />
 </p>
 
 <!-- <br>
