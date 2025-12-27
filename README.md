@@ -49,19 +49,16 @@
 
 <div align="center">
   
-  <a href="https://www.facebook.com/your-profile" target="_blank">
+  <a href="https://www.facebook.com/share/1DuoU2nXHf/?mibextid=wwXIfr" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
   <a href="https://github.com/shashenAmalka" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:your.amalkadarshana9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
@@ -104,21 +101,21 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://progress-bar.xyz/40/?title=&width=120&color=ED8B00" alt="40%" />
+  <img src="https://progress-bar.xyz/40/?title=&width=120&color=ED8B00" alt="60%" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://progress-bar.xyz/25/?title=&width=120&color=00599C" alt="25%" />
+  <img src="https://progress-bar.xyz/25/?title=&width=120&color=00599C" alt="75%" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://progress-bar.xyz/20/?title=&width=120&color=9C033A" alt="20%" />
+  <img src="https://progress-bar.xyz/20/?title=&width=120&color=9C033A" alt="70%" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://progress-bar.xyz/15/?title=&width=120&color=3776AB" alt="15%" />
 </p>
 
-<br>
+<!-- <br>
 
 <div align="center">
   
@@ -131,7 +128,7 @@
 
 </div>
 
-<br>
+<br> -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -155,7 +152,7 @@
 
 <br>
 
-<!-- Profile Views & Snake Animation -->
+<!-- Profile Views & Snake Animation
 <h2 align="center">🐍 Watch My Contributions Get Eaten</h2>
 
 <p align="center">
@@ -164,7 +161,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</p>
+</p> -->
 
 <br>
 
@@ -176,6 +173,6 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-</div>
+</div> -->
