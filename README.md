@@ -74,26 +74,11 @@
 
 <p align="center">
   <a href="https://github.com/shashenAmalka">
-    <img src="https://streak-stats.demolab.com?user=shashenAmalka&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak Stats" height="180" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shashenAmalka">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashenAmalka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
   </a>
 </p>
 
 <br>
-
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <a href="https://github.com/shashenAmalka">
-    <img src="https://github-profile-trophy.vercel.app/?username=shashenAmalka&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2" alt="GitHub Trophies" />
-  </a>
-</p>
 
 <br>
 
@@ -102,52 +87,61 @@
 </div>
 
 <h2 align="center">
-  🔥 Most Used Languages
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
+  Most Used Languages
 </h2>
 
 <p align="center">
   <a href="https://github.com/shashenAmalka">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashenAmalka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" alt="Top Languages" height="200" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashenAmalka&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
   </a>
 </p>
 
 <br>
 
+<!-- Custom Language Cards with Progress Bars -->
+<h3 align="center">💻 My Core Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://progress-bar.xyz/40/?title=&width=120&color=ED8B00" alt="40%" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://progress-bar.xyz/25/?title=&width=120&color=00599C" alt="25%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://progress-bar.xyz/20/?title=&width=120&color=9C033A" alt="20%" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://progress-bar.xyz/15/?title=&width=120&color=3776AB" alt="15%" />
+</p>
+
+<br>
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60" />
-        <br><b>Java</b>
-        <br>
-        <img src="https://img.shields.io/badge/40%25-FF6B6B?style=flat-square" alt="40%" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=c" alt="C" width="60" height="60" />
-        <br><b>C</b>
-        <br>
-        <img src="https://img.shields.io/badge/25%25-4ECDC4?style=flat-square" alt="25%" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="60" height="60" />
-        <br><b>C++</b>
-        <br>
-        <img src="https://img.shields.io/badge/20%25-45B7D1?style=flat-square" alt="20%" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60" />
-        <br><b>Python</b>
-        <br>
-        <img src="https://img.shields.io/badge/15%25-F8D866?style=flat-square" alt="15%" />
-      </td>
-    </tr>
-  </table>
+  
+| Language | Proficiency | Level |
+|:--------:|:-----------:|:-----:|
+| <img src="https://skillicons.dev/icons?i=java" width="30"/> **Java** | ![](https://geps.dev/progress/40?dangerColor=ED8B00&warningColor=ED8B00&successColor=ED8B00) | ⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=c" width="30"/> **C** | ![](https://geps.dev/progress/25?dangerColor=00599C&warningColor=00599C&successColor=00599C) | ⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=cpp" width="30"/> **C++** | ![](https://geps.dev/progress/20?dangerColor=9C033A&warningColor=9C033A&successColor=9C033A) | ⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=python" width="30"/> **Python** | ![](https://geps.dev/progress/15?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB) | ⭐⭐ |
+
 </div>
 
 <br>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 <!-- Activity Graph -->
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" />
+  Contribution Graph
+</h2>
 
 <p align="center">
   <a href="https://github.com/shashenAmalka">
@@ -162,14 +156,26 @@
 <br>
 
 <!-- Profile Views & Snake Animation -->
+<h2 align="center">🐍 Watch My Contributions Get Eaten</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashenAmalka&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shashenAmalka?label=Followers&style=for-the-badge&color=F85D7F" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/shashenAmalka?label=Stars&style=for-the-badge&color=F8D866" alt="Stars" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </div>
