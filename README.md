@@ -69,26 +69,46 @@
 
 <br>
 
+<!-- GitHub Stats Cards -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashenAmalka&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shashenAmalka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <a href="https://github.com/shashenAmalka">
+    <img src="https://streak-stats.demolab.com?user=shashenAmalka&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak Stats" height="180" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shashenAmalka">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashenAmalka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  </a>
+</p>
+
+<br>
+
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <a href="https://github.com/shashenAmalka">
+    <img src="https://github-profile-trophy.vercel.app/?username=shashenAmalka&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2" alt="GitHub Trophies" />
+  </a>
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashenAmalka&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<br>
-
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px">
-  Most Used Languages
+  🔥 Most Used Languages
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashenAmalka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/shashenAmalka">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashenAmalka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" alt="Top Languages" height="200" />
+  </a>
 </p>
 
 <br>
@@ -96,42 +116,60 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
-        <br><strong>Java</strong>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60" />
+        <br><b>Java</b>
+        <br>
+        <img src="https://img.shields.io/badge/40%25-FF6B6B?style=flat-square" alt="40%" />
       </td>
-      <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
-        <br><strong>C++</strong>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="60" height="60" />
+        <br><b>C</b>
+        <br>
+        <img src="https://img.shields.io/badge/25%25-4ECDC4?style=flat-square" alt="25%" />
       </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55" />
-        <br><strong>C</strong>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="60" height="60" />
+        <br><b>C++</b>
+        <br>
+        <img src="https://img.shields.io/badge/20%25-45B7D1?style=flat-square" alt="20%" />
       </td>
-      <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
-        <br><strong>Python</strong>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60" />
+        <br><b>Python</b>
+        <br>
+        <img src="https://img.shields.io/badge/15%25-F8D866?style=flat-square" alt="15%" />
       </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>40%</strong></td>
-      <td align="center"><strong>25%</strong></td>
-      <td align="center"><strong>20%</strong></td>
-      <td align="center"><strong>15%</strong></td>
     </tr>
   </table>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashenAmalka&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" width="100%" />
-</div>
+<!-- Activity Graph -->
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <a href="https://github.com/shashenAmalka">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashenAmalka&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" width="100%" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<div align="center">
+<br>
+
+<!-- Profile Views & Snake Animation -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashenAmalka&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
 </div>
