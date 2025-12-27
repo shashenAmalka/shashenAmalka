@@ -112,7 +112,7 @@
   <img src="https://progress-bar.xyz/20/?title=&width=120&color=9C033A" alt="70%" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://progress-bar.xyz/15/?title=&width=120&color=3776AB" alt="15%" />
+  <img src="https://progress-bar.xyz/15/?title=&width=120&color=3776AB" alt="65%" />
 </p>
 
 <!-- <br>
