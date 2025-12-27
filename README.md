@@ -29,88 +29,9 @@
   Languages and Tools I Use
 </h2>
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        
-### 🖥️ Frontend Development
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-</div>
-
-      </td>
-      <td valign="top" width="50%">
-
-### 🖧 Backend Development
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>  
-</div>
-
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="50%">
-
-### 📱 Mobile Development
-<div align="center">  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React Native" height="50" /></a>  
-</div>
-
-      </td>
-      <td valign="top" width="50%">
-
-### 🗄️ Database
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="50%">
-
-### ☁️ DevOps & Cloud
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-      </td>
-      <td valign="top" width="50%">
-
-### 🛠️ Tools & Others
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://postman.com" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>  
-</div>
-
-      </td>
-    </tr>
-  </table>
-  
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,nextjs,tailwind,html,css,bootstrap,java,nodejs,express,python,php,ruby,flutter,androidstudio,kotlin,dart,mongodb,mysql,firebase,aws,azure,docker,c,cpp,figma,postman" />
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -148,10 +69,10 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashenAmalka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashenAmalka&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" width="49%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashenAmalka&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shashenAmalka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+</p>
 
 <br>
 
@@ -161,53 +82,44 @@
 
 <br>
 
-<div align="center">
-  
-  <h3>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px">
-    Most Used Languages
-  </h3>
-  
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px">
+  Most Used Languages
+</h2>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashenAmalka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  
-</div>
+</p>
 
 <br>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
-        <a href="#java">
-          <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        </a>
-        <br>Java
-        <br><sub>40%</sub>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+        <br><strong>Java</strong>
       </td>
-      <td align="center" width="96">
-        <a href="#c">
-          <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-        </a>
-        <br>C
-        <br><sub>25%</sub>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
+        <br><strong>C++</strong>
       </td>
-      <td align="center" width="96">
-        <a href="#cpp">
-          <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-        </a>
-        <br>C++
-        <br><sub>20%</sub>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55" />
+        <br><strong>C</strong>
       </td>
-      <td align="center" width="96">
-        <a href="#python">
-          <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-        </a>
-        <br>Python
-        <br><sub>15%</sub>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+        <br><strong>Python</strong>
       </td>
     </tr>
+    <tr>
+      <td align="center"><strong>40%</strong></td>
+      <td align="center"><strong>25%</strong></td>
+      <td align="center"><strong>20%</strong></td>
+      <td align="center"><strong>15%</strong></td>
+    </tr>
   </table>
-  
 </div>
 
 <br>
